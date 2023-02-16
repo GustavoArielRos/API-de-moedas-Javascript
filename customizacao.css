@@ -1,0 +1,85 @@
+
+body{
+    background: linear-gradient(to left top, rgb(3, 80, 9) ,rgb(5, 121, 14))
+}
+
+h1{
+    position: fixed;
+    top:10px;
+    left:520px;
+    font-family: fantasy ;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px white;
+    color: rgb(32, 32, 32);
+}
+
+#botoes{
+    position: fixed;
+    top:200px;
+    left:250px;
+    
+}
+
+
+#dolar{
+   
+    font-size: 50px;
+    background-color: rgb(54, 54, 216);
+    border-radius: 12px;
+    margin-right: 100px;
+    transition-duration: 0.4s;
+}
+
+#dolar:hover{
+    background-color: rgb(204, 199, 199);
+    color:rgb(54, 54, 216);
+    transition-duration: 0.4s;
+}
+
+#euro{
+    font-size: 50px;
+    background-color: rgb(156, 167, 56);
+    border-radius: 12px;
+    margin-right: 100px;
+    margin-left: 100px;
+    transition-duration: 0.4s;
+}
+
+#euro:hover{
+    background-color: rgb(204, 199, 199);
+    color:rgb(156, 167, 56); 
+    transition-duration: 0.4s;
+
+}
+
+
+#bitcoin{
+    font-size: 50px;
+    background-color: rgb(218, 128, 54);
+    border-radius: 12px;
+    margin-left: 100px;
+    transition-duration: 0.4s;
+}
+
+#bitcoin:hover{
+    background-color: rgb(204, 199, 199);
+    color: rgb(218, 128, 54);
+    transition-duration: 0.4s;
+
+}
+
+h2{
+    position: fixed;
+    top:350px;
+    left: 500px;
+    text-shadow: 1px 1px rgb(119, 118, 118);
+    color: rgb(15, 15, 15);
+}
+
+span{
+    text-shadow: 1px 1px rgb(0, 0, 0);
+    color: rgb(90, 180, 63);
+
+}
+
+
